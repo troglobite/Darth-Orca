@@ -1,0 +1,1 @@
+/tmp/documents-export-2014-11-27/MinCoinsGui/src/mincoinsgui/MinCoinsGui.java
